@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
     var lost = true
     var expensive = true
     var choice = 2
-    val integral = "{222B}"
+    val integral = "\\u{222B}"
     var name = "Karen"
     
     if(sample1 == sample2){
